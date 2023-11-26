@@ -65,6 +65,10 @@ To get started with the Coder app, follow these steps:
 - [equatable](https://pub.dev/packages/equatable)
 - [json_path](https://pub.dev/packages/json_path)
 
+## Video Demonstration
+
+(https://drive.google.com/file/d/1QvvAphRv8D5uEcIizqp6lKiza_1NIzlL/view?usp=sharing)
+
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the development of Coder,
