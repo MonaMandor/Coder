@@ -6,25 +6,25 @@ A Flutter desktop application designed to assist medical coders in finding  medi
 
 Coder is a Flutter desktop  project that leverages the ICD-10-CM Data from [ICD10Data](https://www.icd10data.com/ICD10CM/).
 Applicable to all countries licenced and coding according to  ICD-10-CM including: 
-Australia
-Bahrain
-Bosnia and Herzegovina
-Bulgaria
-Ireland
-Lithuania
-Macedonia
-Moldova
-Montenegro
-New Zealand
-Qatar
-Saudi Arabia
-Serbia
-Singapore
-Slovenia
-Tonga
-Turkey
-Tuvalu
-Ukraine
+Australia,
+Bahrain,
+Bosnia and Herzegovina,
+Bulgaria,
+Ireland,
+Lithuania,
+Macedonia,
+Moldova,
+Montenegro,
+New Zealand,
+Qatar,
+Saudi Arabia,
+Serbia,
+Singapore,
+Slovenia,
+Tonga,
+Turkey,
+Tuvalu,
+Ukraine,
 The application provides a user-friendly interface for medical coders to search, find, and work with codes in a fast and efficient manner.
 
 ## Simulation Stage
